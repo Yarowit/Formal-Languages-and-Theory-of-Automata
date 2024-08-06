@@ -1,0 +1,7 @@
+Jarosław Socha, 268463
+kompilator na specjalną maszynę wirtualną, napisany w pythonie,
+do działania wymaga biblioteki "sly" oraz standardowej biblioteki "sys"
+
+Wywołanie:
+
+python kompilator.py <plik wejściowy> <plik wyjściowy>
